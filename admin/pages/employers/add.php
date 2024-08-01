@@ -1,3 +1,9 @@
+<?php
+echo "1";
+
+?>
+
+
 <div class="container-fluid">
         <div class="row">
           <!-- left column -->
