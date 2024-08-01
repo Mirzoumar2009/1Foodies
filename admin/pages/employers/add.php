@@ -1,3 +1,7 @@
+<?php 
+    echo "2";
+
+          ?>
 <div class="container-fluid">
         <div class="row">
           <!-- left column -->
@@ -40,7 +44,7 @@
                     <input type="text" required name="position" class="form-control">
 
                   </div>
-
+                  
                   <div class="form-group">
                     <label>Image</label>
                    <input type="file" name="file">
